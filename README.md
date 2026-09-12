@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HealerJacobs
+q- 👋 Hi, I’m @Magezi
 - 👀 I’m interested in learning software 
 - 🌱 I’m currently learning (am still a student) programming 
 - 💞️ I’m looking to collaborate on many software projects as possible whenever there's an opportunity. 
